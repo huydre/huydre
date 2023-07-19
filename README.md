@@ -1,8 +1,6 @@
 <h1 align="center">Hi I'm Huydre 👋</h1>
 
-[![Typing](https://readme-typing-svg.demolab.com/?lines=Just+a+front-end+developer;Always+learing+new+things)](https://git.io/typing-svg)
-
-<p>
+<p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Just+a+front-end+developer;Always+learing+new+things;&center=true&width=500&height=50"></a>
 </p>
 
