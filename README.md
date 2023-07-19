@@ -1,6 +1,7 @@
 <h1 align="center">Hi I'm Huydre 👋</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Just+a+front-end+developer;Always+learing+new+things)](https://git.io/typing-svg)
+<p align="center"> [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Just+a+front-end+developer;Always+learing+new+things)](https://git.io/typing-svg) </p>
+
 
 ### 🧰 Languages and Tools
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
