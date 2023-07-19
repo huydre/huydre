@@ -1,5 +1,5 @@
-### Hi I'm Huydre 👋
-<h1 align="center">Hi I'm Huydre</h1>
+<h1 align="center">Hi I'm Huydre 👋</h1>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Just+a+front-end+developer;Always+learing+new+things)](https://git.io/typing-svg)
 
 ### 🧰 Languages and Tools
