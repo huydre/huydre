@@ -1,6 +1,6 @@
 <h1 align="center">Hi I'm Huydre 👋</h1>
 
-<p align="center"> [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Just+a+front-end+developer;Always+learing+new+things)](https://git.io/typing-svg) </p>
+[![Typing](https://readme-typing-svg.demolab.com/?lines=Just+a+front-end+developer;Always+learing+new+things)](https://git.io/typing-svg)
 
 
 ### 🧰 Languages and Tools
